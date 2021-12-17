@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://preetamdaila.github.io/csb-c6eil/static/css/main.3de9e300.chunk.css",
+    "main.js": "https://preetamdaila.github.io/csb-c6eil/static/js/main.11ade769.chunk.js",
+    "main.js.map": "https://preetamdaila.github.io/csb-c6eil/static/js/main.11ade769.chunk.js.map",
+    "runtime-main.js": "https://preetamdaila.github.io/csb-c6eil/static/js/runtime-main.acfa815c.js",
+    "runtime-main.js.map": "https://preetamdaila.github.io/csb-c6eil/static/js/runtime-main.acfa815c.js.map",
+    "static/js/2.9ae57338.chunk.js": "https://preetamdaila.github.io/csb-c6eil/static/js/2.9ae57338.chunk.js",
+    "static/js/2.9ae57338.chunk.js.map": "https://preetamdaila.github.io/csb-c6eil/static/js/2.9ae57338.chunk.js.map",
+    "index.html": "https://preetamdaila.github.io/csb-c6eil/index.html",
+    "static/css/main.3de9e300.chunk.css.map": "https://preetamdaila.github.io/csb-c6eil/static/css/main.3de9e300.chunk.css.map",
+    "static/js/2.9ae57338.chunk.js.LICENSE.txt": "https://preetamdaila.github.io/csb-c6eil/static/js/2.9ae57338.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acfa815c.js",
+    "static/js/2.9ae57338.chunk.js",
+    "static/css/main.3de9e300.chunk.css",
+    "static/js/main.11ade769.chunk.js"
+  ]
+}
